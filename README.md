@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CH's%20Dev%20Repo!&fontSize=90" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CH&apos;s%20Dev%20Repo!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CH%27s%20Dev%20Repo!&fontSize=90" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
