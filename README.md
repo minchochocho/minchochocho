@@ -6,10 +6,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css,mysql&perline=9"/>
 </p>
+
 ## Using Technics
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,firebase,linux,docker&perline=9"/>
 </p>
+
 ## Using Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,ubuntu&perline=9"/>
