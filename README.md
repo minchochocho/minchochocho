@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=85A0C7&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=Hello%2C+I'm+Chaehyoun+%F0%9F%91%8B;IoT+%C2%B7+Embedded+Developer;" alt="Typing SVG" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Profile" width="30" height="30" /> Profile Card
+
 <div align="center">
   <table>
     <tr>
@@ -26,7 +26,7 @@
 
   | 🏷️ | Field | Info |
   |:--:|:------|:-----|
-  | 👤 | **Name** | CH (최한) |
+  | 👤 | **Name** | 김채현(Kim Chaehyoun) |
   | 💻 | **GitHub** | [minchochocho](https://github.com/minchochocho) |
   | ✉️ | **Email** | [ch.dev.contact@gmail.com](mailto:ch.dev.contact@gmail.com) |
   | 🧭 | **Role** | .NET · IoT · Desktop Developer |
