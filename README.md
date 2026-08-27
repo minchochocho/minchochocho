@@ -13,6 +13,8 @@
         <img src="https://avatars.githubusercontent.com/u/150896043?v=4" width="140" alt="avatar" />
         <br /><br />
         <img src="https://img.shields.io/badge/CH_(채현)-85A0C7?style=for-the-badge&logo=github&logoColor=white" alt="name" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/Status-Learning_by_Building-92A6C7?style=flat-square&logo=coffee&logoColor=white" alt="status" />
       </td>
       <td width="72%" align="center" valign="top">
         <table>
