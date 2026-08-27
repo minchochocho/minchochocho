@@ -15,6 +15,8 @@
         <img src="https://img.shields.io/badge/CH_(채현)-85A0C7?style=for-the-badge&logo=github&logoColor=white" alt="name" />
         <br /><br />
         <img src="https://img.shields.io/badge/Status-Learning_by_Building-92A6C7?style=flat-square&logo=coffee&logoColor=white" alt="status" />
+        <br />
+        <img src="https://img.shields.io/badge/Open_to-Collaboration-85A0C7?style=flat-square" alt="collaboration" />
       </td>
       <td width="72%" align="center" valign="top">
         <table>
@@ -81,75 +83,37 @@
   <table>
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3>📡 .NET & IoT Practice</h3>
-        <p>.NET 기반 데스크톱, API, IoT 연동 기능 학습 프로젝트 모음</p>
-        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-        <img src="https://img.shields.io/badge/WPF-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
-        <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-        <br /><br />
-        <a href="https://github.com/minchochocho/iot-dotnet-2026">
-          <img src="https://img.shields.io/badge/Repo-85A0C7?style=for-the-badge&logo=github&logoColor=white" alt="repository" />
-        </a>
+        <h3><a href="https://github.com/minchochocho/smart-factory-conveyor">🏭 Smart Factory Conveyor</a></h3>
+        <p>비전 인식과 장치 제어를 연동한 스마트팩토리 컨베이어 자동 분류 시스템</p>
+        <img src="https://img.shields.io/badge/Arduino-%2300878F.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+        <img src="https://img.shields.io/badge/Raspberry_Pi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+        <img src="https://img.shields.io/badge/YOLO-%23111F68.svg?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
+        <img src="https://img.shields.io/badge/MQTT-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
       </td>
       <td width="50%" align="center" valign="top">
-        <h3>📚 CodeShelf</h3>
-        <p>로컬 소스코드 DB 색인 · 검색 · 미리보기 Qt 데스크톱 앱</p>
+        <h3><a href="https://github.com/minchochocho/refrigerator-application_2025_capstone-design">🥬 Refrigerator Application</a></h3>
+        <p>냉장고 식자재를 관리하고 유통기한과 재고 흐름을 기록하는 캡스톤 디자인 앱</p>
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/Firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Barcode-%2392A6C7.svg?style=for-the-badge&logo=googlelens&logoColor=white" alt="Barcode" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3><a href="https://github.com/minchochocho/codeshelf">📚 CodeShelf</a></h3>
+        <p>C++/Qt6 · MySQL 기반 로컬 코드 색인 및 검색 데스크톱 앱</p>
         <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/Qt_6-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white" alt="Qt 6" />
         <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <br /><br />
-        <a href="https://github.com/minchochocho/iot-miniproject1-2026">
-          <img src="https://img.shields.io/badge/Repo-85A0C7?style=for-the-badge&logo=github&logoColor=white" alt="repository" />
-        </a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" align="center" valign="top">
-        <h3>🧩 WPF MVVM CRUD Practice</h3>
-        <p>MVVM 패턴을 적용한 도서/분류 관리 CRUD 데스크톱 애플리케이션</p>
+        <h3><a href="https://github.com/minchochocho/iot-dotnet-2026">🖥️ .NET Desktop Practice</a></h3>
+        <p>WPF, API, 데이터베이스 연동을 중심으로 데스크톱 애플리케이션 구조를 학습한 프로젝트 모음</p>
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
         <img src="https://img.shields.io/badge/WPF-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
-        <img src="https://img.shields.io/badge/MVVM-%2385A0C7.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="MVVM" />
         <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <br /><br />
-        <a href="https://github.com/minchochocho/iot-dotnet-2026">
-          <img src="https://img.shields.io/badge/Repo-85A0C7?style=for-the-badge&logo=github&logoColor=white" alt="repository" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>📹 CCTV Monitoring App</h3>
-        <p>공공데이터 API와 Bridge API를 연동한 CCTV 조회 및 모니터링 앱</p>
-        <img src="https://img.shields.io/badge/WPF-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
-        <img src="https://img.shields.io/badge/WebAPI-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="WebAPI" />
-        <img src="https://img.shields.io/badge/OpenAPI-%236BA539.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
-        <br /><br />
-        <a href="https://github.com/minchochocho/iot-dotnet-2026">
-          <img src="https://img.shields.io/badge/Repo-85A0C7?style=for-the-badge&logo=github&logoColor=white" alt="repository" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>🏠 Smart Home IoT Apps</h3>
-        <p>MQTT 기반 센싱/구독 흐름을 구현한 스마트홈 연동 앱</p>
-        <img src="https://img.shields.io/badge/WPF-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
-        <img src="https://img.shields.io/badge/MQTT-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
-        <img src="https://img.shields.io/badge/IoT-%2385A0C7.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
-        <br /><br />
-        <a href="https://github.com/minchochocho/iot-dotnet-2026">
-          <img src="https://img.shields.io/badge/Repo-85A0C7?style=for-the-badge&logo=github&logoColor=white" alt="repository" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>🎉 Busan Festival App</h3>
-        <p>부산 축제 공공데이터를 조회하고 탐색할 수 있는 WPF 앱</p>
-        <img src="https://img.shields.io/badge/WPF-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
-        <img src="https://img.shields.io/badge/OpenAPI-%236BA539.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
-        <img src="https://img.shields.io/badge/Public_Data-%2392A6C7.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="Public Data" />
-        <br /><br />
-        <a href="https://github.com/minchochocho/iot-dotnet-2026">
-          <img src="https://img.shields.io/badge/Repo-85A0C7?style=for-the-badge&logo=github&logoColor=white" alt="repository" />
-        </a>
       </td>
     </tr>
   </table>
