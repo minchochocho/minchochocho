@@ -84,7 +84,7 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <h3>📡 .NET & IoT Practice</h3>
-        <p>.NET 기반 데스크톱, API, IoT 연동 기능을 학습하고 구현한 프로젝트 모음</p>
+        <p>.NET 기반 데스크톱, API, IoT 연동 기능 학습 프로젝트 모음</p>
         <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
         <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
         <img src="https://img.shields.io/badge/WPF-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
